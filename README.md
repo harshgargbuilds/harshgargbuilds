@@ -11,7 +11,7 @@ Bridging enterprise backend microservices, system reliability, and production-gr
   - M.Tech in Artificial Intelligence & Machine Learning — **BITS Pilani**
   - M.Sc. in Mathematics — **NIT Rourkela**
 - ⚡ **Focus Areas:** Generative AI, RAG Architectures, Autonomous Agents (LangGraph), MLOps & AI System Evaluation.
-- 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
+- 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/harsh-garg-cloud/) | [Email](mailto:h.garg1307@example.com)
 
 ---
 
