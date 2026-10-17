@@ -45,5 +45,5 @@ Bridging enterprise backend microservices, system reliability, and production-gr
 ---
 
 ### 📈 GitHub Stats
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshgargbuilds&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshgargbuilds&layout=compact&theme=dark)
